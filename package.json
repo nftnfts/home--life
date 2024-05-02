@@ -1,5 +1,23 @@
 {
   "dependencies": {
+    "dappstea": "^4.0.0",
     "home--life": "^1.0.0"
-  }
+  },
+  "name": "home--life",
+  "version": "4.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nftnfts/home--life.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nftnfts/home--life/issues"
+  },
+  "homepage": "https://github.com/nftnfts/home--life#readme",
+  "description": ""
 }
